@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="utf-8"?>
 <updates>
 	<update>
-		<name>Holidays</name>
-		<description>Holidays - module for Joomla</description>
-		<element>mod_holidays</element>
-		<type>module</type>
-		<version>1.1.1</version>
+		<name>System - Meta Indicator</name>
+		<description>Plugin adds indicator and character counter to Meta-Description and Titles in Joomla materials, categories and menu items.</description>
+		<element>plg_meta_indicator</element>
+		<type>plugin</type>
+		<version>1.0.1</version>
 		<downloads>
-			<downloadurl type="full" format="zip">https://github.com/Inter-Net-Pro/Holidays/raw/master/mod_holidays.zip</downloadurl>
+			<downloadurl type="plugin" format="zip">https://github.com/Inter-Net-Pro/plg_meta_indicator/plg_meta_indicator.zip</downloadurl>
 		</downloads>
 		<maintainer>Joomla</maintainer>
 		<maintainerurl>https://inter-net.pro</maintainerurl>
-		<targetplatform name="joomla" version="3"/>
-		<client>site</client>
+		<targetplatform name="joomla" version="3" />
+		<client>0</client>
 	</update>
 </updates>
