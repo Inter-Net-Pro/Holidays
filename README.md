@@ -14,7 +14,7 @@
 
 ## Скачать
 
-[Скачать Версия 1.1.2](https://github.com/Inter-Net-Pro/Holidays/raw/master/mod_holidays.zip)
+[Скачать Версия 1.1.3](https://github.com/Inter-Net-Pro/Holidays/raw/master/mod_holidays.zip)
 
 ## Demo
 
