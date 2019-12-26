@@ -14,12 +14,10 @@
 
 ## Скачать
 
-Версия 1.1.1
+[Скачать Версия 1.1.2](https://github.com/Inter-Net-Pro/Holidays/raw/master/mod_holidays.zip)
 
 ## Demo
 
 Новогодняя гирлянда: https://inter-net.pro/joomla/girlyanda-joomla
 
 Снег на сайте на чистом CSS - https://inter-net.pro/css/sneg-na-sajte
-
-Вопросы по работе модуля и пожелания по его развитию можно оставлять в этой <a href="https://inter-net.pro/forum/joomla/29-novogodnyaya-girlyanda-dlya-sajta-joomla">теме на форуме</a>.
